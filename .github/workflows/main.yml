@@ -14,46 +14,24 @@ permissions:
 jobs:
   integration:
     name: Continuous Integration
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-<<<<<<< HEAD:.github/workflows/windows.yml
-      - name: List directory contents
-        run: dir
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
-      - name: Install dependencies
-        run: npm install
-        working-directory: ./Diamond_price_prediction
-
-      - name: Run unit tests
-        run: npm test
-        working-directory: ./Diamond_price_prediction
-        shell: pwsh
-=======
       - name: Lint code
         run: echo "Linting repository"
 
       - name: Run unit tests
         run: echo "Running unit tests"
->>>>>>> fc1c44bde6148b02046adee7f7fe258d2f132fb3:.github/workflows/main.yml
 
   build-and-push-ecr-image:
     name: Continuous Delivery
     needs: integration
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
-
-      - name: List directory contents
-        run: dir
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
@@ -71,5 +49,8 @@ jobs:
         env:
           IMAGE_TAG: latest
         run: |
+          # Build a docker container and
+          # push it to ECR so that it can
+          # be deployed to ECS.
           docker build -t ${{ secrets.AWS_ECR_REPO_URI }}:$IMAGE_TAG .
           docker push ${{ secrets.AWS_ECR_REPO_URI }}:$IMAGE_TAG
