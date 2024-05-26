@@ -19,7 +19,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Check directory contents
+      - name: List directory contents
         run: dir
 
       - name: Set up Node.js
@@ -29,11 +29,11 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: Diamond_price_prediction
+        working-directory: ./Diamond_price_prediction
 
       - name: Run unit tests
         run: npm test
-        working-directory: Diamond_price_prediction
+        working-directory: ./Diamond_price_prediction
 
   build-and-push-ecr-image:
     name: Continuous Delivery
@@ -43,7 +43,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Check directory contents
+      - name: List directory contents
         run: dir
 
       - name: Configure AWS credentials
