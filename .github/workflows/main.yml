@@ -35,9 +35,6 @@ jobs:
       - name: Check directory contents
         run: dir
 
-      - name: Set working directory
-        run: cd Diamond_price_prediction
-
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
