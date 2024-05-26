@@ -1,0 +1,152 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="/static/style.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="brand-name">Diamond Price Prediction</div>
+      <div class="social-links">
+        <a href="https://www.linkedin.com/in/ankush-choudhary-4b27331b4/" target="_blank" class="social-link"
+          >LinkedIn</a
+        >
+        <a href="https://github.com/Ankush7756" target="_blank" class="social-link"
+          >Github</a
+        >
+      </div>
+    </nav>
+    <div class="heading-and-form">
+      <div class="left-container">
+        <img src="../static/images/diamond.png" alt="" />
+        <div class="heading">
+          <h1 id="title">Diamond Price Prediction</h1>
+          <p id="description">
+            The Diamond Price Prediction project utilizes machine learning to
+            forecast the prices of diamonds based on their key attributes such
+            as carat weight, cut, color, clarity, and dimensions. By
+            preprocessing the data, training various machine learning models,
+            and evaluating their performance using metrics like mean absolute
+            error and R-squared, this project aims to provide a reliable tool
+            for estimating diamond prices in the market.
+          </p>
+        </div>
+        <h4>Contact Me:</h4>
+        <a href="mailto:choudharyankush613@gmail.com"
+          ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ffffff" d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/></svg>choudharyankush613@gmail.com</a
+        >
+
+        <a href="tel:9867067302"
+          ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#ffffff" d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/></svg>9867067302</a
+        >
+      </div>
+      <form action="{{url_for('predict_datapoint')}}" method="POST">
+        <div class="form-row">
+          <div class="form-group">
+            <label for="carat">Carat:</label>
+            <input
+              type="text"
+              id="carat"
+              name="carat"
+              placeholder="Enter carat value (float)"
+            />
+          </div>
+          <div class="form-group">
+            <label for="depth">Depth:</label>
+            <input
+              type="text"
+              id="depth"
+              name="depth"
+              placeholder="Enter depth value (float)"
+            />
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="table">Table:</label>
+            <input
+              type="text"
+              id="table"
+              name="table"
+              placeholder="Enter table value (float)"
+            />
+          </div>
+          <div class="form-group">
+            <label for="x">x:</label>
+            <input
+              type="text"
+              id="x"
+              name="x"
+              placeholder="Enter x value (float)"
+            />
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="y">y:</label>
+            <input
+              type="text"
+              id="y"
+              name="y"
+              placeholder="Enter y value (float)"
+            />
+          </div>
+          <div class="form-group">
+            <label for="z">z:</label>
+            <input
+              type="text"
+              id="z"
+              name="z"
+              placeholder="Enter z value (float)"
+            />
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="cut">Cut:</label>
+          <select id="cut" name="cut">
+            <option value="Fair">Fair</option>
+            <option value="Good">Good</option>
+            <option value="Very Good">Very Good</option>
+            <option value="Premium">Premium</option>
+            <option value="Ideal">Ideal</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="color">Color:</label>
+          <select id="color" name="color">
+            <option value="D">D</option>
+            <option value="E">E</option>
+            <option value="F">F</option>
+            <option value="G">G</option>
+            <option value="H">H</option>
+            <option value="I">I</option>
+            <option value="J">J</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="clarity">Clarity:</label>
+          <select id="clarity" name="clarity">
+            <option value="I1">I1</option>
+            <option value="SI2">SI2</option>
+            <option value="SI1">SI1</option>
+            <option value="VS2">VS2</option>
+            <option value="VS1">VS1</option>
+            <option value="VVS2">VVS2</option>
+            <option value="VVS1">VVS1</option>
+            <option value="IF">IF</option>
+          </select>
+        </div>
+
+        <div style="clear: both"></div>
+        <input type="submit" value="Submit" />
+
+        <div class="final">
+          <pre> <b>The final price: {{final_result}}</b> </pre>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
