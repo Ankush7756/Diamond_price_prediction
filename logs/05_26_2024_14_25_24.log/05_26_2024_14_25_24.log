@@ -1,0 +1,754 @@
+[ 2024-05-26 14:25:25,564 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-26 14:25:25,569 ] 186 werkzeug - INFO -  * Debugger PIN: 522-830-107
+[ 2024-05-26 14:25:50,808 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:25:50] "GET / HTTP/1.1" 200 -
+[ 2024-05-26 14:25:51,203 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:25:51] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 14:25:51,809 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:25:51] "[36mGET /static/images/img2.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-26 14:25:52,376 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:25:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 14:27:49,145 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 14:27:51,471 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:27:51] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 14:27:51,491 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:27:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 14:44:01,256 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 14:44:01,309 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:44:01] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 14:44:01,330 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:44:01] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 14:44:01,515 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:44:01] "[36mGET /static/images/img2.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-26 14:45:39,600 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 14:45:39,640 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:45:39] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 14:45:39,657 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:45:39] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 14:45:39,860 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:45:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 14:46:02,518 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 14:46:02,552 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:46:02] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 14:46:02,568 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:46:02] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 14:46:02,781 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:46:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 14:46:35,254 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 14:46:35,276 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:46:35] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 14:46:35,287 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:46:35] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 14:47:26,880 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 14:47:26,904 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:47:26] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 14:47:27,196 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:47:27] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 14:47:45,106 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 14:47:45,125 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:47:45] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 14:47:45,135 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:47:45] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 14:50:00,334 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:50:00] "GET / HTTP/1.1" 200 -
+[ 2024-05-26 14:50:00,583 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:50:00] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 14:50:27,966 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:50:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 14:52:06,486 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 14:52:06,505 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:52:06] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 14:52:06,516 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:52:06] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 14:52:06,752 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:52:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 14:52:15,122 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 14:52:15,151 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:52:15] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 14:52:15,162 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:52:15] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 14:52:15,378 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:52:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 14:52:39,837 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 14:52:39,857 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:52:39] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 14:52:39,869 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:52:39] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 14:55:12,954 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 14:55:12,984 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:55:12] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 14:55:13,002 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 14:55:13] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:07:16,790 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:07:16,832 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:07:16] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:07:16,846 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:07:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 15:07:48,197 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:07:48,224 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:07:48] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:07:48,509 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:07:48] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:08:53,572 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:08:53,592 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:08:53] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:08:53,604 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:08:53] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:09:04,185 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:09:04,207 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:09:04] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:09:04,489 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:09:04] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:09:21,560 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:09:21,587 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:09:21] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:09:21,599 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:09:21] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:09:38,946 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:09:38,972 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:09:38] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:09:39,265 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:09:39] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:09:47,997 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:09:48,034 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:09:48] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:09:48,045 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:09:48] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:09:57,147 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:09:57,174 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:09:57] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:09:57,453 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:09:57] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:10:07,300 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:10:07,329 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:10:07] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:10:07,342 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:10:07] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:10:21,303 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:10:21,324 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:10:21] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:10:21,623 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:10:21] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:11:07,496 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:11:07,523 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:11:07] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:11:07,537 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:11:07] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:11:26,911 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:11:26,936 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:11:26] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:11:27,224 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:11:27] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:11:43,797 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:11:43,826 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:11:43] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:11:43,839 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:11:43] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:12:04,045 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:12:04,071 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:12:04] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:12:04,352 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:12:04] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:12:35,654 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:12:35,672 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:12:35] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:12:35,683 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:12:35] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:13:17,130 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:13:17,152 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:13:17] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:13:17,446 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:13:17] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:14:09,746 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:14:09,766 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:14:09] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:14:09,777 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:14:09] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:15:24,662 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:15:24,692 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:15:24] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:15:24,705 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:15:24] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:24:02,445 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:24:02,465 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:24:02] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:24:02,476 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:24:02] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:24:20,008 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:24:20,029 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:24:20] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:24:20,317 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:24:20] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:24:34,008 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:24:34,037 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:24:34] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:24:34,050 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:24:34] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:25:20,846 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:25:20,867 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:25:20] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:25:21,149 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:25:21] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:28:17,863 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:28:17,883 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:28:17] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:28:17,896 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:28:17] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:28:28,279 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:28:28,303 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:28:28] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:28:28,588 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:28:28] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:29:01,623 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:29:01,651 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:29:01] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:29:01,662 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:29:01] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:29:34,329 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:29:34,358 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:29:34] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:29:34,641 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:29:34] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:29:51,279 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:29:51,313 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:29:51] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:29:51,328 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:29:51] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:30:27,728 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:30:27,755 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:30:27] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:30:28,033 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:30:28] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:30:28,355 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:30:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:30:36,453 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:30:36,476 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:30:36] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:30:36,767 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:30:36] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:30:37,077 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:30:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:30:44,896 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:30:44,920 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:30:44] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:30:45,204 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:30:45] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:30:45,520 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:30:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:31:07,466 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:31:07,486 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:07] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:31:07,788 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:07] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:31:08,111 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:31:16,523 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:31:16,548 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:16] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:31:16,829 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:16] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:31:17,150 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:31:20,579 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:31:20,602 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:20] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:31:20,886 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:20] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:31:21,214 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:31:38,278 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:31:38,300 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:38] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:31:38,593 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:38] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:31:38,918 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:31:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:32:07,105 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:32:07,131 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:32:07] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:32:07,424 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:32:07] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:32:07,748 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:32:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:32:27,877 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:32:27,903 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:32:27] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:32:28,194 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:32:28] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:32:28,519 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:32:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:32:53,211 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:32:53,238 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:32:53] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:32:53,528 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:32:53] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:32:53,852 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:32:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:32:56,820 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:32:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 15:33:01,259 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:33:01,295 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:33:01] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:33:01,310 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:33:01] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:33:01,518 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:33:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:33:03,677 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:33:03,708 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:33:03] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:33:03,719 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:33:03] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:33:03,940 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:33:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:33:07,316 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:33:07] "GET / HTTP/1.1" 200 -
+[ 2024-05-26 15:33:07,583 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:33:07] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:36:07,238 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:36:07,266 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:36:07] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:36:07,281 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:36:07] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:36:07,502 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:36:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:36:49,667 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:36:49,703 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:36:49] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:36:49,715 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:36:49] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:36:49,913 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:36:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:37:02,869 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:37:02,888 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:37:02] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:37:02,901 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:37:02] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:37:03,132 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:37:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:37:13,038 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:37:13,062 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:37:13] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:37:13,076 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:37:13] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:37:13,301 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:37:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:37:47,652 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:37:47] "GET / HTTP/1.1" 200 -
+[ 2024-05-26 15:37:47,915 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:37:47] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:37:54,653 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:37:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 15:38:40,631 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:38:40,663 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:38:40] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:38:40,939 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:38:40] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:38:41,264 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:38:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:39:21,979 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:39:22,001 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:39:22] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:39:22,295 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:39:22] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:39:22,621 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:39:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:39:32,404 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:39:32,426 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:39:32] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:39:32,712 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:39:32] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:39:33,035 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:39:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:40:26,153 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:40:26,175 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:40:26] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:40:26,466 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:40:26] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:40:26,789 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:40:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:40:35,778 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:40:35,803 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:40:35] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:40:36,091 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:40:36] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:40:36,404 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:40:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:40:47,455 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:40:47,477 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:40:47] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:40:47,763 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:40:47] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:40:48,077 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:40:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:45:08,103 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:45:08,131 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:08] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:45:08,146 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:08] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:45:08,346 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:45:08,468 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:08] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:45:22,582 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:45:22,609 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:22] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:45:22,620 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:22] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:45:22,845 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:45:22,939 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:22] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:45:35,646 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:45:35,665 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:35] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:45:35,675 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:35] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:45:35,911 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:45:35,989 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:35] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:45:40,068 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:45:40,097 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:40] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:45:40,108 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:40] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:45:40,330 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:45:40,422 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:40] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:45:57,694 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:45:57,728 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:57] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:45:57,740 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:57] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:45:57,938 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:45:58,063 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:45:58] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:46:09,692 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:46:09,714 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:09] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:46:09,726 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:09] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:46:09,940 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:46:10,047 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:10] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:46:35,756 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:46:35,794 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:35] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:46:35,809 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:35] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:46:36,020 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:46:36,132 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:36] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:46:43,219 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:46:43,246 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:43] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:46:43,257 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:43] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:46:43,475 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:46:43,590 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:43] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:46:47,198 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:46:47,216 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:47] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:46:47,229 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:47] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:46:47,463 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:46:47,542 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:47] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:46:55,773 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:46:55,800 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:55] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:46:55,812 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:55] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:46:56,029 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:46:56,139 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:46:56] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:47:01,351 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:47:01,376 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:01] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:47:01,388 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:01] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:47:01,617 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:47:01,707 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:01] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:47:07,069 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:47:07,092 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:07] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:47:07,105 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:07] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:47:07,337 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:47:07,430 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:07] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:47:14,345 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:47:14,375 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:14] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:47:14,392 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:14] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:47:14,605 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:47:14,716 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:14] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:47:21,201 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:47:21,228 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:21] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:47:21,242 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:21] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:47:21,464 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:47:21,563 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:47:21] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:51:00,002 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:51:00,028 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:00] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:51:00,040 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:00] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:51:00,253 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:51:00,359 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:00] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:51:23,887 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:51:23,910 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:23] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:51:23,925 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:23] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:51:24,148 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:51:24,255 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:24] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:51:32,855 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:51:32,880 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:32] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:51:32,891 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:32] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:51:33,116 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:51:33,211 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:33] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:51:39,113 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:51:39,142 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:39] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:51:39,155 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:39] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:51:39,379 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:51:39,490 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:51:39] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:58:00,100 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:58:00,136 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:00] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:58:00,150 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:00] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:58:00,366 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:58:00,482 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:00] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:58:48,626 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:58:48,648 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:48] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:58:48,663 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:48] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:58:48,873 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:58:48,982 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:48] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:58:58,263 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:58:58,308 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:58] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:58:58,326 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:58] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:58:58,529 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 15:58:58,652 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:58:58] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 15:59:38,784 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 15:59:38,802 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:59:38] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 15:59:38,815 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:59:38] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 15:59:39,050 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 15:59:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:00:06,640 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:00:06,672 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:06] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:00:06,686 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:06] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:00:06,909 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:06] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:00:07,233 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:00:31,870 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:00:31,893 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:31] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:00:32,172 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:32] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:00:32,220 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:32] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:00:32,548 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:00:36,341 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:00:36,366 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:36] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:00:36,655 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:36] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:00:36,684 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:36] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:00:37,010 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:00:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:01:35,895 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:01:35,918 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:01:35] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:01:36,210 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:01:36] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:01:36,241 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:01:36] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:01:36,554 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:01:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:02:13,450 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:02:13,473 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:02:13] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:02:13,755 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:02:13] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:02:13,800 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:02:13] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:02:14,115 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:02:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:02:35,947 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:02:35,972 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:02:35] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:02:36,254 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:02:36] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:02:36,301 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:02:36] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:02:36,614 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:02:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:03:12,387 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:03:12,411 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:12] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:03:12,696 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:12] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:03:12,726 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:12] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:03:13,057 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:03:17,265 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:03:17,290 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:17] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:03:17,586 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:17] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:03:17,611 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:17] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:03:17,926 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:03:24,171 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:03:24,193 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:24] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:03:24,488 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:24] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:03:24,518 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:24] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:03:24,834 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:03:44,903 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:03:44,932 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:44] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:03:45,207 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:45] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:03:45,254 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:45] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:03:45,579 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:03:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:04:00,023 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:04:00,470 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:00] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:04:00,481 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:00] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:04:00,795 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:00] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:04:01,066 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:04:10,044 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:04:10,067 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:10] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:04:10,349 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:10] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:04:10,395 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:10] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:04:10,707 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:04:16,414 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:04:16,439 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:16] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:04:16,732 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:16] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:04:16,759 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:16] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:04:17,086 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:04:38,644 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:04:38,667 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:38] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:04:38,965 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:38] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:04:38,991 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:38] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:04:39,322 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:04:49,604 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:04:49,626 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:49] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:04:49,912 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:49] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:04:49,958 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:49] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:04:50,283 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:04:56,465 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:04:56,494 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:56] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:04:56,769 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:56] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:04:56,816 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:56] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:04:57,136 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:04:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:05:06,558 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:05:06,578 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:06] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:05:06,874 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:06] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:05:06,901 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:06] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:05:07,214 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:05:12,271 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:05:12,292 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:12] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:05:12,590 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:12] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:05:12,618 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:12] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:05:12,942 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:05:18,239 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 16:05:44,572 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:05:44,591 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:44] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:05:44,602 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:44] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:05:44,839 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:44] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:05:45,166 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:05:53,539 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:05:53,563 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:53] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:05:53,856 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:53] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:05:53,883 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:53] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:05:54,199 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:05:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:06:00,234 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:06:00,260 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:00] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:06:00,544 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:00] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:06:00,591 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:00] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:06:00,916 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:06:04,837 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:06:04,856 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:04] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:06:05,144 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:05] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:06:05,174 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:05] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:06:05,502 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:06:11,067 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:06:11,088 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:11] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:06:11,389 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:11] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:06:11,415 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:11] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:06:11,726 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:06:26,786 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:06:26,805 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:26] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:06:27,101 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:27] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:06:27,129 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:27] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:06:27,442 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:06:32,720 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:06:32,744 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:32] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:06:33,038 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:33] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:06:33,068 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:33] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:06:33,383 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:06:39,937 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:06:39,956 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:39] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:06:40,248 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:40] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:06:40,279 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:40] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:06:40,603 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:06:51,766 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:06:51,790 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:51] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:06:52,085 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:52] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:06:52,113 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:52] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:06:52,438 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:06:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:07:01,776 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:07:01,803 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:01] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:07:02,084 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:02] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:07:02,130 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:02] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:07:02,445 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:07:18,451 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:07:18,481 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:18] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:07:18,757 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:18] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:07:18,803 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:18] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:07:19,127 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:07:26,065 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:07:26,092 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:26] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:07:26,387 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:26] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:07:26,412 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:26] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:07:26,739 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:07:53,688 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:07:53,719 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:53] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:07:54,006 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:54] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:07:54,050 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:54] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:07:54,363 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:07:58,837 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:07:58,860 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:58] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:07:59,143 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:59] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:07:59,174 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:59] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:07:59,489 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:07:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:08:08,815 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:08:08,837 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:08] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:08:09,121 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:09] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:08:09,153 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:09] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:08:09,466 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:08:13,312 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:08:13,334 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:13] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:08:13,617 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:13] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:08:13,648 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:13] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:08:13,963 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:08:34,923 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:08:34,947 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:34] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:08:35,231 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:35] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:08:35,262 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:35] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:08:35,574 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:08:50,351 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:08:50,376 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:50] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:08:50,668 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:50] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:08:50,698 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:50] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:08:51,008 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:08:52,943 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:08:52,964 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:52] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:08:53,252 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:53] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:08:53,282 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:53] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:08:53,596 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:08:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:09:17,229 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:09:17,255 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:17] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:09:17,544 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:17] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:09:17,575 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:17] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:09:17,900 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:09:19,974 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:09:20,000 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:20] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:09:20,285 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:20] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:09:20,328 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:20] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:09:20,639 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:09:25,269 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:09:25,297 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:25] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:09:25,583 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:25] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:09:25,623 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:25] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:09:25,936 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:09:35,013 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:09:35,041 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:35] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:09:35,317 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:35] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:09:35,363 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:35] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:09:35,691 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:09:39,495 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:09:39,520 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:39] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:09:39,816 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:39] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:09:39,844 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:39] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:09:40,169 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:09:42,659 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:09:42,684 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:42] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:09:42,980 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:42] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:09:43,005 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:43] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:09:43,319 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:09:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:10:00,223 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:10:00,251 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:10:00] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:10:00,528 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:10:00] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:10:00,575 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:10:00] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:10:00,887 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:10:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:10:11,966 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:10:11,989 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:10:11] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:10:12,274 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:10:12] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:10:12,306 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:10:12] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:10:12,621 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:10:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:11:06,239 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:11:06,271 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:11:06] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:11:06,284 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:11:06] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:11:06,500 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:11:06] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:11:06,811 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:11:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:11:26,823 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:11:26,850 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:11:26] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:11:26,862 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:11:26] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:11:27,087 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:11:27] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:11:27,409 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:11:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:12:09,913 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:12:09,934 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:12:09] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:12:09,948 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:12:09] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:12:10,162 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:12:10] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:12:10,485 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:12:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:13:05,233 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:13:05,259 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:13:05] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:13:05,542 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:13:05] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:13:05,588 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:13:05] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:13:05,912 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:13:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:13:13,225 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:13:13,253 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:13:13] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:13:13,532 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:13:13] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:13:13,577 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:13:13] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:13:13,902 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:13:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:14:00,020 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:14:00,046 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:00] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:14:00,322 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:00] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:14:00,370 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:00] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:14:00,682 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:14:15,787 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:14:15,813 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:15] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:14:16,097 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:16] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:14:16,127 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:16] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:14:16,442 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:14:54,389 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:14:54,419 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:54] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:14:54,429 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:54] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:14:54,651 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:54] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:14:54,977 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:14:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:15:33,036 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:15:33,074 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:33] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:15:33,353 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:33] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:15:33,401 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:33] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:15:33,727 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:15:45,135 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:15:45,163 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:45] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:15:45,173 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:45] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:15:45,381 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:45] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:15:45,700 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:15:59,246 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:15:59,268 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:59] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:15:59,545 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:59] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:15:59,592 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:59] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:15:59,903 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:15:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:16:22,818 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:16:22,842 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:16:22] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:16:23,141 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:16:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 16:16:23,170 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:16:23] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-05-26 16:17:09,049 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:17:09,081 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:09] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:17:09,093 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:09] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:17:09,300 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:09] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:17:09,622 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:17:26,073 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:17:26,098 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:26] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:17:26,391 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:26] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:17:26,418 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:26] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:17:26,727 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:17:30,295 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:17:30,319 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:30] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:17:30,604 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:30] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:17:30,649 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:30] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:17:30,976 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:17:38,686 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:17:38,709 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:38] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:17:38,999 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:38] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:17:39,029 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:39] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:17:39,357 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:17:47,408 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:17:47,453 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:47] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:17:47,715 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:47] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:17:47,775 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:47] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:17:48,098 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:17:55,077 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:17:55,106 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:55] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:17:55,123 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:55] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:17:55,342 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:55] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:17:55,669 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:17:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:18:00,779 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:18:00,805 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:00] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:18:01,080 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:01] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:18:01,125 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:01] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:18:01,439 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:18:26,909 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:18:26,933 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:26] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:18:27,217 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:27] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:18:27,263 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:27] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:18:27,576 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:18:35,892 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:18:35,917 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:35] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:18:36,204 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:36] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:18:36,234 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:36] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:18:36,545 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:18:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:19:16,829 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:19:16,860 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:16] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:19:17,138 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:17] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:19:17,184 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:17] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:19:17,496 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:19:39,323 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:19:39,348 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:39] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:19:39,633 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:39] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:19:39,677 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:39] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:19:39,992 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:19:48,928 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:19:48,953 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:48] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:19:49,238 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:49] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:19:49,270 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:49] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:19:49,579 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:19:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:20:14,925 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:20:14,954 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:14] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:20:15,241 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:15] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:20:15,273 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:15] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:20:15,589 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:20:23,337 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:20:23,363 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:23] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:20:23,648 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:23] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:20:23,693 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:23] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:20:24,004 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:20:28,846 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:20:28,869 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:28] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:20:29,164 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:29] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:20:29,195 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:29] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:20:29,517 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:20:38,427 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:20:38,453 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:38] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:20:38,740 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:38] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:20:38,770 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:38] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:20:39,079 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:20:57,186 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:20:57,207 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:57] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:20:57,501 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:57] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:20:57,534 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:57] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:20:57,850 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:20:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:22:23,287 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:22:23,316 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:22:23] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:22:23,329 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:22:23] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:22:23,550 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:22:23] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:22:23,873 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:22:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:23:02,522 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:23:02,579 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:02] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:23:02,831 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:02] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:23:02,908 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:02] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:23:03,222 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:23:17,748 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:23:17,777 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:17] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:23:18,059 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:18] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:23:18,102 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:18] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:23:18,427 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:23:24,699 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:23:24,727 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:24] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:23:25,016 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:25] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:23:25,046 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:25] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:23:25,356 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:23:41,282 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:23:41,304 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:41] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:23:41,585 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:41] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:23:41,632 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:41] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:23:41,944 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:23:53,966 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:23:53,992 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:53] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:23:54,277 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:54] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:23:54,323 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:54] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:23:54,634 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:23:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:24:51,066 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:24:51,167 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:24:51] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:24:51,183 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:24:51] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:24:51,333 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:24:51] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:24:51,654 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:24:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:25:14,503 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:25:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 16:25:28,252 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:25:28,270 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:25:28] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:25:28,282 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:25:28] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:25:28,515 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:25:28] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:25:28,838 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:25:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 16:25:34,449 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 16:25:34,470 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:25:34] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 16:25:34,487 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:25:34] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 16:25:34,713 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:25:34] "GET /static/images/diamond.png HTTP/1.1" 200 -
+[ 2024-05-26 16:25:35,025 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 16:25:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-26 17:18:52,078 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 17:18:52,179 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 17:18:52] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 17:18:52,199 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 17:18:52] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 17:18:52,319 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 17:18:52] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-05-26 17:18:59,932 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 17:18:59] "GET / HTTP/1.1" 200 -
+[ 2024-05-26 17:19:00,198 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 17:19:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 17:19:00,270 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 17:19:00] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -

@@ -1,0 +1,15 @@
+[ 2024-05-26 19:29:55,007 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-26 19:29:55,010 ] 186 werkzeug - INFO -  * Debugger PIN: 447-053-999
+[ 2024-05-26 19:29:58,694 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:29:58] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:29:58,696 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:29:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:30:00,031 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:30:00] "GET / HTTP/1.1" 200 -
+[ 2024-05-26 19:30:00,341 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:30:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:30:00,354 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:30:00] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:30:01,429 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:30:01] "GET / HTTP/1.1" 200 -
+[ 2024-05-26 19:30:01,440 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:30:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:30:01,678 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:30:01] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:30:12,492 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 19:30:15,560 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:30:15] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 19:30:15,885 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:30:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:30:15,886 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:30:15] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:39:57,654 ] 186 werkzeug - INFO -  * Detected change in 'C:\\Users\\choud\\Desktop\\projcets\\Diamond price prediction\\src\\pipelines\\prediction_pipeline.py', reloading

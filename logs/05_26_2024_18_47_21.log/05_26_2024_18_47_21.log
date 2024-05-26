@@ -1,0 +1,5 @@
+[ 2024-05-26 18:47:23,623 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-26 18:47:23,629 ] 186 werkzeug - INFO -  * Debugger PIN: 447-053-999
+[ 2024-05-26 18:47:27,844 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 18:47:27] "GET / HTTP/1.1" 200 -
+[ 2024-05-26 18:47:28,079 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 18:47:28] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-26 18:47:28,171 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 18:47:28] "GET /static/images/diamond.png HTTP/1.1" 200 -

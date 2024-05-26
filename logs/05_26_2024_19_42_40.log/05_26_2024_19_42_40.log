@@ -1,0 +1,10 @@
+[ 2024-05-26 19:42:41,887 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-26 19:42:41,891 ] 186 werkzeug - INFO -  * Debugger PIN: 447-053-999
+[ 2024-05-26 19:42:47,057 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 19:42:47,238 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:42:47] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 19:42:47,250 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:42:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:42:47,564 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:42:47] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:42:57,835 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 19:42:57,871 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:42:57] "POST / HTTP/1.1" 200 -
+[ 2024-05-26 19:42:57,891 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:42:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:42:58,099 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:42:58] "[36mGET /static/images/diamond.png HTTP/1.1[0m" 304 -

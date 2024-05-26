@@ -1,0 +1,18 @@
+[ 2024-05-26 19:39:59,095 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-26 19:39:59,101 ] 186 werkzeug - INFO -  * Debugger PIN: 447-053-999
+[ 2024-05-26 19:40:16,447 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 19:40:16,448 ] 27 root - INFO - Exception occured in prediction
+[ 2024-05-26 19:40:16,472 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:40:16] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2024-05-26 19:40:16,524 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:40:16] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:40:16,749 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:40:16] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:40:17,104 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:40:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:40:17,358 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:40:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:40:19,550 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:40:19] "GET / HTTP/1.1" 200 -
+[ 2024-05-26 19:40:23,584 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-26 19:40:23,584 ] 27 root - INFO - Exception occured in prediction
+[ 2024-05-26 19:40:23,613 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:40:23] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2024-05-26 19:40:23,630 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:40:23] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:40:23,849 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:40:23] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:40:24,179 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:40:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:40:24,427 ] 186 werkzeug - INFO - 127.0.0.1 - - [26/May/2024 19:40:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-05-26 19:41:02,869 ] 186 werkzeug - INFO -  * Detected change in 'C:\\Users\\choud\\Desktop\\projcets\\Diamond price prediction\\src\\pipelines\\prediction_pipeline.py', reloading

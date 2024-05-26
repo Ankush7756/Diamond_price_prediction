@@ -1,0 +1,10 @@
+[ 2024-05-23 18:11:29,231 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-23 18:11:29,235 ] 186 werkzeug - INFO -  * Debugger PIN: 104-495-069
+[ 2024-05-23 18:12:02,840 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:12:02] "GET / HTTP/1.1" 200 -
+[ 2024-05-23 18:12:05,800 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:12:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-23 18:12:12,588 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:12:12] "GET /predict HTTP/1.1" 200 -
+[ 2024-05-23 18:12:36,313 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 18:12:38,885 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:12:38] "POST /predict HTTP/1.1" 200 -
+[ 2024-05-23 18:13:17,816 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 18:13:17,840 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:13:17] "POST /predict HTTP/1.1" 200 -
+[ 2024-05-23 18:13:32,860 ] 186 werkzeug - INFO -  * Detected change in 'C:\\Users\\choud\\Desktop\\DiamondPricePrediction2\\application.py', reloading

@@ -1,0 +1,19 @@
+[ 2024-05-23 18:50:12,389 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-23 18:50:12,394 ] 186 werkzeug - INFO -  * Debugger PIN: 104-495-069
+[ 2024-05-23 18:50:12,845 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:12] "GET / HTTP/1.1" 200 -
+[ 2024-05-23 18:50:12,858 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:12] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[ 2024-05-23 18:50:14,659 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:14] "GET / HTTP/1.1" 200 -
+[ 2024-05-23 18:50:14,979 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:14] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[ 2024-05-23 18:50:29,419 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:29] "GET / HTTP/1.1" 200 -
+[ 2024-05-23 18:50:29,430 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:29] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[ 2024-05-23 18:50:30,679 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:30] "GET / HTTP/1.1" 200 -
+[ 2024-05-23 18:50:30,687 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:30] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[ 2024-05-23 18:50:30,948 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:30] "GET / HTTP/1.1" 200 -
+[ 2024-05-23 18:50:31,039 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:31] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[ 2024-05-23 18:50:36,593 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:36] "GET / HTTP/1.1" 200 -
+[ 2024-05-23 18:50:36,604 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:50:36] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+[ 2024-05-23 18:52:59,075 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:52:59] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2024-05-23 18:52:59,136 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:52:59] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-05-23 18:52:59,349 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:52:59] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-05-23 18:52:59,729 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:52:59] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-05-23 18:52:59,971 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 18:52:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

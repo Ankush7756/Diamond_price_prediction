@@ -1,0 +1,74 @@
+[ 2024-05-23 20:13:11,453 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2024-05-23 20:13:11,460 ] 186 werkzeug - INFO -  * Debugger PIN: 104-495-069
+[ 2024-05-23 20:13:12,977 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:13:12] "GET / HTTP/1.1" 200 -
+[ 2024-05-23 20:13:13,046 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:13:13] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-23 20:13:13,060 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:13:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-05-23 20:13:13,072 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:13:13] "GET /static/images/img1.jpg HTTP/1.1" 200 -
+[ 2024-05-23 20:13:40,329 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:13:43,189 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:13:43] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:13:43,204 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:13:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:13:43,215 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:13:43] "[36mGET /static/images/img1.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:14:29,042 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:14:29] "GET / HTTP/1.1" 200 -
+[ 2024-05-23 20:14:29,059 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:14:29] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-23 20:14:29,071 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:14:29] "GET /static/images/img1.jpg HTTP/1.1" 200 -
+[ 2024-05-23 20:16:08,434 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:16:08,457 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:16:08] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:25:24,150 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:25:24,193 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:25:24] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:26:04,272 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:26:04,295 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:26:04] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:27:28,388 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:27:28,416 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:27:28] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:28:30,406 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:28:30,429 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:28:30] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:29:06,450 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:29:06,481 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:29:06] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:29:20,613 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:29:20,638 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:29:20] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:29:20,659 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:29:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:29:20,669 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:29:20] "[36mGET /static/images/img1.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:29:33,182 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:29:33,202 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:29:33] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:29:33,224 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:29:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:29:33,236 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:29:33] "[36mGET /static/images/img1.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:31:02,957 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:31:02,980 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:31:02] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:31:03,005 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:31:03] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-23 20:31:03,012 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:31:03] "[36mGET /static/images/img1.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:31:25,838 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:31:25,863 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:31:25] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:31:25,883 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:31:25] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-23 20:31:25,895 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:31:25] "[36mGET /static/images/img1.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:32:48,234 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:32:48,256 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:32:48] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:32:48,289 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:32:48] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-23 20:32:48,297 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:32:48] "[36mGET /static/images/img1.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:33:34,673 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:33:34,695 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:33:34] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:33:34,715 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:33:34] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-23 20:33:34,731 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:33:34] "[36mGET /static/images/img1.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:33:57,834 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:33:57,861 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:33:57] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:33:57,890 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:33:57] "GET /static/style.css HTTP/1.1" 200 -
+[ 2024-05-23 20:33:57,899 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:33:57] "[36mGET /static/images/img1.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:34:29,398 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:34:29,421 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:34:29] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:34:29,442 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:34:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:34:29,452 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:34:29] "[36mGET /static/images/img1.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:34:45,185 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:34:45] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2024-05-23 20:34:45,241 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:34:45] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-05-23 20:34:45,259 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:34:45] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-05-23 20:34:45,282 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:34:45] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-05-23 20:35:06,785 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:35:06,808 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:35:06] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:35:06,827 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:35:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:35:06,837 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:35:06] "[36mGET /static/images/img1.jpg HTTP/1.1[0m" 304 -
+[ 2024-05-23 20:37:08,695 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:37:08,720 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:37:08] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:37:42,458 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:37:42,482 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:37:42] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:38:01,426 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:38:01,458 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:38:01] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:39:58,269 ] 66 root - INFO - Dataframe Gathered
+[ 2024-05-23 20:39:58,290 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:39:58] "POST / HTTP/1.1" 200 -
+[ 2024-05-23 20:39:58,309 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2024 20:39:58] "GET /static/style.css HTTP/1.1" 200 -
