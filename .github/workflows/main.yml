@@ -1,3 +1,4 @@
+name: workflow
 
 on:
   push:
@@ -27,7 +28,7 @@ jobs:
   build-and-push-ecr-image:
     name: Continuous Delivery
     needs: integration
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
