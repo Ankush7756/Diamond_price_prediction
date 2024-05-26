@@ -35,6 +35,9 @@ jobs:
       - name: Check directory contents
         run: dir
 
+      - name: Set working directory
+        run: cd Diamond_price_prediction
+
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
@@ -42,9 +45,11 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: Diamond_price_prediction
 
       - name: Run unit tests
         run: npm test
+        working-directory: Diamond_price_prediction
 
   build-and-push-ecr-image:
     name: Continuous Delivery
